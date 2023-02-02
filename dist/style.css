@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+}
+
+nav {
+    text-align: center;
+}
+
+#content { 
+    text-align: center;
+    color: white;
+    margin: auto;
+    width: 70%;
+
+}
+
+.main-ice {
+    width: 500px;
+}
+
+button {
+    height: 50px;
+    width: 200px;
+    background-color: white;
+}
+
+.splash-contact {
+    background-color: white;
+    height: 300px;
+    text-align: center;
+    justify-content: center;
+    color: black;
+    padding: 25px;
+}
+
+.phNumber {
+    text-decoration: underline;
+    color: blue;
+}
+
+.splash-contact p {
+    font-size: 20px;
+    margin: 20px;
+    padding: 20px;
+}
